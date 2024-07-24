@@ -9,6 +9,8 @@
 
 **project**:Smart Home IOT Systems
 
+![t2](https://github.com/user-attachments/assets/ab863bca-eed9-4b7c-84fb-82367bed2920)
+
 **objective**:-<br>
 
 One of the main objectives of the smart home is to ease daily life by increasing user comfort. It does this by automating typical routines as well as giving homeowners the power to manage their home systems remotely."To enhance convenience, efficiency, and security in residential environments by seamlessly integrating and automating household devices through IoT technology, thereby enriching the homeowner's lifestyle while promoting energy conservation and sustainable living practices."
