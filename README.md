@@ -14,7 +14,7 @@
 One of the main objectives of the smart home is to ease daily life by increasing user comfort. It does this by automating typical routines as well as giving homeowners the power to manage their home systems remotely."To enhance convenience, efficiency, and security in residential environments by seamlessly integrating and automating household devices through IoT technology, thereby enriching the homeowner's lifestyle while promoting energy conservation and sustainable living practices."
 
 
-**key Activities**:-<br>
+**key Activities**:- <br>
 
 1.Smart Home: A home equipped with internet-connected devices that enable remote management and monitoring of appliances and systems.<br>
 2.IoT (Internet of Things): The network of physical devices embedded with sensors, software, and connectivity to exchange data with other devices and systems over the internet.<br>
